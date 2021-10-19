@@ -2,7 +2,7 @@
 
 ### Arrow operator
 
-```cpp
+```c
 Person p1, p2;
 Person *p3 = &p1;
 
