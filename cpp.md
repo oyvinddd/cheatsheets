@@ -14,6 +14,6 @@ p1.name = "Øyvind";
 // to achieve the same thing (implicit dereferencing)
 p3->age = 35;
 
-// this is just syntactic sugar for the following
+// the arrow operator is just syntactic sugar for the following
 (*p3).age = 35;
 ```
